@@ -1,0 +1,517 @@
+﻿Column_1,Column_2,Correlation
+Aquarius,truck driver,0.7005289007176941
+Aries,Los Angeles Angels fan,1.0
+Aries,event planner,0.8081220356417688
+Arizona Cardinals fan,Arizona Diamondbacks fan,0.7671840904055742
+Arizona Cardinals fan,Phoenix Suns fan,0.8370664681546164
+Arizona Cardinals fan,lawyer,0.7039429765866795
+Arizona Diamondbacks fan,Cleveland Guardians fan,0.7004041959724748
+Arizona Diamondbacks fan,Phoenix Suns fan,0.7001400420140049
+Arizona Diamondbacks fan,Seattle Mariners fan,0.7002746713858894
+Arizona Diamondbacks fan,Wiccan,0.7006490497453709
+Arizona Diamondbacks fan,childcare worker,1.0
+Arizona Diamondbacks fan,long-distance partner,0.7007648882267353
+Arizona Diamondbacks fan,realtor,1.0
+Atlanta Falcons fan,Denver Nuggets fan,1.0
+Atlanta Falcons fan,pharmacist,0.7035623639735145
+Baltimore Orioles fan,San Diego Padres fan,1.0
+Baltimore Orioles fan,Uber driver,1.0
+Baltimore Orioles fan,rapper,1.0
+Baltimore Orioles fan,realtor,0.700140042014005
+Boston Celtics fan,Los Angeles Dodgers fan,0.8053872662568291
+Boston Celtics fan,Miami Heat fan,0.8087571021725036
+Boston Celtics fan,hairstylist,1.0
+Boston Red Sox fan,Minnesota Twins fan,1.0
+Boston Red Sox fan,New England Patriots fan,0.840168050416806
+Brooklyn Nets fan,Houston Astros fan,1.0
+Brooklyn Nets fan,Miami Marlins fan,1.0
+Brooklyn Nets fan,Toronto Raptors fan,1.0
+Brooklyn Nets fan,eSports competitor,0.700528900717694
+Buddhist,Taoist,1.0
+Buddhist,Zen Buddhist,0.7169654645394219
+Buddhist,fitness trainer,1.0
+Buddhist,janitor,1.0
+Buddhist,security guard,1.0
+CEO,Methodist,1.0
+CEO,actor,0.8079466429027214
+CEO,coach,0.8090398349558905
+CEO,fitness trainer,0.7008766440504625
+CEO,long-distance partner,0.7000000000000001
+CEO,park ranger,1.0
+CEO,producer,0.7777777777777776
+Charlotte Hornets fan,Houston Astros fan,0.7009845293191768
+Charlotte Hornets fan,New York Jets fan,0.8620067027323831
+Charlotte Hornets fan,motivational speaker,0.8077637460938353
+Chicago Bulls fan,software developer,0.8053872662568293
+Chicago White Sox fan,Scientologist,0.7037315505489968
+Chicago White Sox fan,software developer,1.0
+Cleveland Cavaliers fan,Cleveland Guardians fan,0.7487487221277965
+Colorado Rockies fan,Miami Dolphins fan,0.7034142923389223
+Colorado Rockies fan,eSports competitor,1.0
+Colorado Rockies fan,mechanic,1.0
+Colorado Rockies fan,personal assistant,0.7033355181304508
+Colorado Rockies fan,podcast host,1.0
+Communist,black belt,1.0
+Communist,public relations specialist,1.0
+Communist,translator,0.8579691784155836
+Confucian,Episcopalian,1.0
+Confucian,doctor,1.0
+Confucian,fitness trainer,1.0
+Dallas Mavericks fan,Wiccan,0.7040784727049222
+Democrat,liberal,0.7288909638874392
+Denver Nuggets fan,Los Angeles Dodgers fan,0.8036375634160794
+Denver Nuggets fan,San Diego Padres fan,1.0
+Denver Nuggets fan,San Francisco Giants fan,0.7004041959724749
+Denver Nuggets fan,adoptive parent,1.0
+Denver Nuggets fan,composer,1.0
+Denver Nuggets fan,construction worker,1.0
+Denver Nuggets fan,firefighter,0.7001400420140048
+Denver Nuggets fan,realtor,1.0
+Detroit Lions fan,Detroit Tigers fan,0.7669649888473705
+Detroit Tigers fan,Indiana Pacers fan,0.806225774829855
+Detroit Tigers fan,Seventh-day Adventist,0.7004041959724749
+Episcopalian,Memphis Grizzlies fan,0.7001400420140049
+Episcopalian,Seattle Mariners fan,0.7001400420140048
+Episcopalian,Wiccan,1.0
+Episcopalian,coach,0.7001400420140048
+Episcopalian,polyamorous,0.7000000000000001
+Hindu,Oakland Athletics fan,1.0
+Hindu,San Antonio Spurs fan,1.0
+Hindu,blind,1.0
+Hindu,financial advisor,0.7006490497453709
+Hindu,insurance agent,1.0
+Hindu,janitor,1.0
+Hindu,military personnel,0.704202839630928
+Hindu,paleo,0.7001400420140049
+Hindu,police officer,1.0
+Hindu,sophomore,0.7044434693456668
+Hindu,veterinarian technician,0.7002746713858895
+Houston Astros fan,Houston Rockets fan,0.8075728530872484
+Houston Astros fan,Houston Texans fan,0.8129695813681376
+Houston Astros fan,Milwaukee Brewers fan,1.0
+Houston Astros fan,Toronto Raptors fan,1.0
+Houston Astros fan,receptionist,1.0
+Houston Rockets fan,marathoner,0.7033753209384469
+Indiana Pacers fan,Milwaukee Brewers fan,0.7007648882267353
+Indianapolis Colts fan,Tampa Bay Rays fan,0.8128433340529313
+Jacksonville Jaguars fan,Kansas City Royals fan,0.703489842985436
+Jain,Minnesota Timberwolves fan,0.7000000000000001
+Jain,freshman,0.7035975447302919
+Kansas City Royals fan,Minnesota Twins fan,0.7001400420140049
+Kansas City Royals fan,New York Mets fan,0.7000000000000002
+Kansas City Royals fan,Pittsburgh Pirates fan,1.0
+Kansas City Royals fan,St. Louis Cardinals fan,0.8064778385455119
+Kansas City Royals fan,Texas Rangers fan,1.0
+Kansas City Royals fan,Toronto Raptors fan,0.7008766440504626
+Kansas City Royals fan,actor,1.0
+Kansas City Royals fan,developer,0.8090398349558906
+Kansas City Royals fan,director,0.700404195972475
+Kansas City Royals fan,park ranger,1.0
+Los Angeles Angels fan,Los Angeles Rams fan,0.7005289007176939
+Los Angeles Clippers fan,Oakland Athletics fan,0.7008766440504625
+Los Angeles Clippers fan,actor,1.0
+Los Angeles Dodgers fan,Los Angeles Lakers fan,0.8050764858994132
+Los Angeles Dodgers fan,Portland Trail Blazers fan,1.0
+Los Angeles Dodgers fan,realtor,1.0
+Los Angeles Dodgers fan,surveyor,0.8043996665398436
+Lutheran,banker,1.0
+Lutheran,dungeon master,1.0
+Lyft driver,influencer,0.7009845293191767
+MAGA (Make America Great Again),Trump supporter,0.7657445043755852
+Memphis Grizzlies fan,Minnesota Timberwolves fan,0.7001400420140049
+Memphis Grizzlies fan,Orlando Magic fan,0.7008766440504625
+Memphis Grizzlies fan,Phoenix Suns fan,1.0
+Memphis Grizzlies fan,adoptive parent,1.0
+Memphis Grizzlies fan,coder,0.7001400420140049
+Memphis Grizzlies fan,director,0.7004041959724752
+Memphis Grizzlies fan,podcaster,0.704360725060499
+Miami Heat fan,Minnesota Timberwolves fan,1.0
+Miami Heat fan,Oakland Athletics fan,0.7007648882267351
+Miami Heat fan,St. Louis Cardinals fan,1.0
+Miami Heat fan,janitor,1.0
+Miami Heat fan,realtor,0.7001400420140049
+Miami Heat fan,warehouse associate,0.8073734277593311
+Milwaukee Brewers fan,Toronto Raptors fan,0.807373427759331
+Milwaukee Brewers fan,online community moderator,1.0
+Milwaukee Brewers fan,woodworker,0.7000000000000002
+Milwaukee Bucks fan,adoptive parent,0.7039144092114437
+Milwaukee Bucks fan,librarian,0.7041041910572661
+Minnesota Timberwolves fan,Oakland Athletics fan,0.7000000000000001
+Minnesota Timberwolves fan,Tampa Bay Rays fan,0.7000000000000002
+Minnesota Timberwolves fan,public relations specialist,0.700404195972475
+Minnesota Twins fan,Pittsburgh Pirates fan,0.700404195972475
+Minnesota Twins fan,Seattle Mariners fan,0.7012868733182768
+Mormon,janitor,1.0
+Never-Trumper,anti-Trump,0.7008548832969173
+New Age,preppy,0.7267441860465117
+New Orleans Saints fan,Portland Trail Blazers fan,0.7039429765866795
+Oakland Athletics fan,dungeon master,1.0
+Oakland Athletics fan,janitor,0.7002746713858895
+Oakland Athletics fan,translator,0.8091735937126869
+Oklahoma City Thunder fan,banker,1.0
+Orlando Magic fan,delivery driver,0.7000000000000001
+Pagan,event planner,1.0
+Pagan,rapper,1.0
+Pagan,they/them,1.0
+Philadelphia Phillies fan,Pittsburgh Pirates fan,1.0
+Philadelphia Phillies fan,dungeon master,0.7002746713858895
+Philadelphia Phillies fan,farmer,1.0
+Phoenix Suns fan,San Antonio Spurs fan,0.700528900717694
+Phoenix Suns fan,pharmacist,0.8073734277593309
+Pittsburgh Pirates fan,San Francisco Giants fan,1.0
+Portland Trail Blazers fan,Zen Buddhist,0.7036658518558089
+Portland Trail Blazers fan,cashier,0.7005289007176941
+Portland Trail Blazers fan,narcissist,1.0
+Portland Trail Blazers fan,police officer,1.0
+Portland Trail Blazers fan,tailor,1.0
+Portland Trail Blazers fan,veterinarian,1.0
+Portland Trail Blazers fan,vlogger,1.0
+Progressive,progressive,0.8249579113843053
+Reddit user,redditor,0.7094138241225703
+Republican,Trump supporter,0.7494780277078344
+Republican,conservative,0.7930021551654184
+Republican,right-wing,0.7837043142769059
+Sacramento Kings fan,astronomer,1.0
+Sacramento Kings fan,bus driver,1.0
+Sacramento Kings fan,coach,0.7012868733182767
+Sacramento Kings fan,mechanic,1.0
+San Antonio Spurs fan,pharmacist,1.0
+San Diego Padres fan,Toronto Raptors fan,1.0
+San Diego Padres fan,activist,0.8062257748298547
+San Diego Padres fan,veterinarian technician,0.7001400420140049
+San Francisco Giants fan,Uber driver,1.0
+San Francisco Giants fan,step-parent,0.7004041959724749
+Scientologist,Uber driver,0.7038853212381585
+Scientologist,military personnel,0.7042952122737638
+Scientologist,pilot,1.0
+Scientologist,security guard,1.0
+Seattle Mariners fan,human resources specialist,0.700528900717694
+Seattle Mariners fan,polyamorous,1.0
+Seattle Mariners fan,skater,0.700404195972475
+Seventh-day Adventist,Washington Nationals fan,0.700528900717694
+Seventh-day Adventist,developer,0.7019641181630341
+St. Louis Cardinals fan,Tampa Bay Rays fan,0.7004041959724749
+Star Wars fan,star wars fan,0.8452380952380955
+Tampa Bay Rays fan,Taoist,1.0
+Taoist,Zen Buddhist,0.7010370827944777
+Taoist,lesbian,1.0
+Taoist,they/them,0.700528900717694
+Taoist,welder,1.0
+Taoist,woodworker,1.0
+Tennessee Titans fan,banker,0.7036658518558089
+Tennessee Titans fan,lawyer,0.7040784727049222
+Tennessee Titans fan,veterinarian,0.704154339142587
+Tesla owner,electric car driver,0.8079466429027214
+Tesla owner,insurance agent,0.7009845293191767
+Tesla owner,neo-conservative,0.7001400420140049
+Tesla owner,truck driver,0.7006490497453708
+Tesla owner,veterinarian technician,1.0
+Toronto Blue Jays fan,dungeon master,0.7000000000000001
+Toronto Blue Jays fan,lesbian,0.7037315505489968
+Toronto Raptors fan,park ranger,0.7012868733182767
+Trump supporter,anti-Trump,-0.7631431553372937
+Uber driver,composer,1.0
+Uber driver,neo-conservative,1.0
+Uber driver,professor,1.0
+Uber driver,real estate agent,0.8056815791722831
+Uber driver,realtor,1.0
+Washington Nationals fan,astronomer,1.0
+Washington Nationals fan,developer,0.7020378500174638
+Washington Nationals fan,fitness trainer,1.0
+Washington Nationals fan,military personnel,0.7035264706814485
+Washington Nationals fan,model,1.0
+Washington Nationals fan,social worker,0.700140042014005
+Washington Nationals fan,sophomore,0.7038853212381584
+Washington Nationals fan,translator,1.0
+Washington Wizards fan,bus driver,1.0
+Washington Wizards fan,finsta user,0.700528900717694
+Washington Wizards fan,goth,1.0
+Washington Wizards fan,lawyer,1.0
+Washington Wizards fan,military personnel,1.0
+Washington Wizards fan,tour guide,0.700528900717694
+Wiccan,far-right,0.7007648882267351
+Wiccan,honest,-0.7041787902195303
+Wiccan,park ranger,0.7001400420140048
+Wiccan,preppy,0.7000000000000002
+Zen Buddhist,polytheist,1.0
+accountant,retail associate,1.0
+activist,bi,0.807373427759331
+actor,developer,0.7009845293191767
+actor,park ranger,1.0
+actor,personal assistant,0.812276932106895
+adoptive parent,astronomer,0.7008766440504626
+adoptive parent,childcare worker,1.0
+adoptive parent,mechanic,1.0
+adoptive parent,motivational speaker,1.0
+adoptive parent,real estate agent,1.0
+adoptive parent,vegetarian,0.8127425537743155
+anti-Trump,conservative,-0.724863403682641
+anti-Trump,liberal,0.7243727619433153
+app developer,software developer,1.0
+architect,black belt,1.0
+architect,motivational speaker,1.0
+architect,retail associate,1.0
+architect,software developer,0.7006490497453709
+architect,tour guide,1.0
+aspiring artist,roommate,0.7214285714285714
+astronomer,coach,1.0
+astronomer,futures trader,1.0
+astronomer,military personnel,1.0
+astronomer,model,1.0
+astronomer,real estate agent,1.0
+aunt,daughter,0.7128632241098488
+aunt,woman,0.7320417798624034
+banker,influencer,0.700528900717694
+banker,retail associate,0.8069465847859288
+banker,rich,0.7007648882267351
+banker,veterinarian,1.0
+bartender,freshman,1.0
+bartender,police officer,0.7006490497453709
+bartender,tailor,0.7031674369909663
+bartender,welder,1.0
+basketball fan,nba fan,0.7420411254811478
+bi,bisexual,1.0
+blind,insurance agent,1.0
+blind,park ranger,1.0
+blind,police officer,1.0
+blind,veterinarian technician,1.0
+boy,male,0.7080290478662927
+boy,she/her,-0.7340812366860409
+boy,woman,-0.7732464296008773
+brother,daughter,-0.8524393885181257
+brother,girl,-0.7846531817819998
+brother,guy,0.8304577029678626
+brother,he/him,0.8314907679939987
+brother,male,0.858941633885974
+brother,man,0.8352642854138865
+brother,nephew,0.7352965000922992
+brother,she/her,-0.7789575173883243
+brother,sister,-0.7454545454545458
+brother,son,0.7789964100272905
+brother,woman,-0.7590489884135063
+bus driver,goth,1.0
+bus driver,tour guide,1.0
+carpenter,police officer,0.7006490497453709
+carpenter,teacher,1.0
+cashier,veterinarian,0.7002746713858893
+childcare worker,construction worker,1.0
+childcare worker,motivational speaker,1.0
+childcare worker,realtor,1.0
+childcare worker,veterinarian technician,1.0
+chiropractor,psychiatrist,1.0
+chiropractor,tour guide,0.7001400420140049
+coach,social worker,0.7005289007176941
+coach,swing voter,0.7267441860465117
+coach,they/them,1.0
+coder,rich,0.761577310586391
+composer,doctor,0.8081220356417687
+composer,motivational speaker,1.0
+composer,songwriter,0.7001400420140049
+computer geek,tech geek,0.8677218312746247
+computer nerd,tech geek,0.7171371656006362
+conservative,right-wing,0.811832328721766
+conservative,social conservative,0.7608416841410187
+construction worker,realtor,0.7002746713858894
+consultant,instructor,0.7089049543158459
+customer service representative,illustrator,0.855653467907924
+dad,father,0.9567441998254982
+daughter,girl,0.9149215401679934
+daughter,guy,-0.9025581171052381
+daughter,he/him,-0.8955769712203107
+daughter,male,-0.9319432560321771
+daughter,man,-0.9212741619652107
+daughter,niece,0.7613295556238442
+daughter,she/her,0.9462375461915372
+daughter,sister,0.8669259156093254
+daughter,son,-0.812048769299767
+daughter,woman,0.8922745351929788
+deaf,finsta user,1.0
+deaf,freshman,0.7041041910572658
+deaf,hairstylist,1.0
+deaf,mayor,1.0
+deaf,stockbroker,1.0
+deaf,tailor,0.7028852104345482
+delivery driver,mechanic,1.0
+designer,illustrator,0.7566444492037343
+developer,fitness trainer,0.8100925873009825
+developer,hunter,0.7002746713858895
+developer,programmer,0.8077637460938353
+developer,public relations specialist,0.7015607600201141
+director,motivational speaker,0.7001400420140049
+director,preppy,1.0
+doctor,dungeon master,1.0
+drone operator,realtor,1.0
+drummer,punk,0.7008766440504623
+dungeon master,military personnel,0.7034898429854363
+dungeon master,sophomore,0.7039144092114435
+efficient,smart,0.7089049543158455
+electric car driver,recovering gambling addict,1.0
+electric car driver,sneakerhead,0.7598410956022565
+employed,unemployed,-0.8378733056423924
+far-right,lawyer,0.7005289007176939
+finsta user,hairstylist,1.0
+finsta user,tutor,1.0
+fitness trainer,freshman,0.704104191057266
+fitness trainer,motivational speaker,0.7001400420140049
+fitness trainer,public relations specialist,1.0
+fitness trainer,social worker,1.0
+flight attendant,personal assistant,0.7039710372159768
+freshman,mayor,1.0
+freshman,polytheist,0.7031230493106523
+freshman,welder,0.7040784727049222
+futures trader,motivational speaker,1.0
+game designer,hairstylist,1.0
+game designer,motivational speaker,1.0
+game designer,paralegal,0.7005289007176941
+girl,guy,-0.8563488385776753
+girl,he/him,-0.9245946589975049
+girl,male,-0.8752583252488545
+girl,man,-0.8900115331799199
+girl,she/her,0.866997340151801
+girl,sister,0.873862343361846
+girl,son,-0.8535639569308374
+girl,woman,0.9448346683982792
+gluten-free,trans,1.0
+goth,human,-0.7041543391425872
+guitar player,musician,0.7129335394540548
+guy,he/him,0.9215371773459655
+guy,male,0.959135320226939
+guy,man,0.9642857142857142
+guy,she/her,-0.8429487179487178
+guy,sister,-0.7666666666666663
+guy,son,0.9038890396297351
+guy,woman,-0.9633275663033838
+hairstylist,janitor,1.0
+hairstylist,lawyer,1.0
+hairstylist,mayor,1.0
+hairstylist,nurse,1.0
+hairstylist,paralegal,0.7001400420140049
+hairstylist,seamstress,1.0
+hairstylist,tour guide,1.0
+hairstylist,veterinarian technician,0.7000000000000001
+he/him,male,0.9587140032615081
+he/him,man,0.945984335830337
+he/him,she/her,-0.9110650501976794
+he/him,sister,-0.8823046743962872
+he/him,son,0.9215371773459654
+he/him,woman,-0.9615808240389467
+homeowner,renter,-0.7238735059845455
+homeschooling parent,long-distance partner,0.7002746713858894
+hopeful,optimistic,0.7409431324527829
+human resources specialist,therapist,0.700404195972475
+hunter,veteran,0.7001400420140048
+immigrant,pharmacist,0.7000000000000001
+immigrant,supportive,-0.8059606997693186
+influencer,public relations specialist,0.7000000000000002
+insurance agent,paleo,1.0
+insurance agent,park ranger,1.0
+insurance agent,police officer,1.0
+insurance agent,troll,0.700404195972475
+insurance agent,veterinarian technician,1.0
+janitor,military personnel,1.0
+janitor,podcaster,0.7014723744122017
+janitor,security guard,0.7007648882267351
+janitor,sophomore,0.7041041910572661
+keto,paleo,1.0
+keto,park ranger,0.7004041959724752
+keto,police officer,0.7010887416930996
+lawyer,mayor,1.0
+lawyer,military personnel,0.7038853212381586
+lawyer,swing voter,1.0
+lawyer,vet,1.0
+liberal,social liberal,0.8213156230234026
+librarian,stockbroker,0.7000000000000001
+librarian,tailor,0.7038255255177737
+long-distance partner,luxury buyer,0.7004041959724749
+male,man,0.995504732602236
+male,niece,-0.71958437342956
+male,she/her,-0.9508440297338508
+male,sister,-0.8388753605259538
+male,son,0.903912397060556
+male,woman,-0.9876258230530538
+mama,mom,0.9300831917288545
+mama,mother,0.9736506900862983
+man,niece,-0.7162527182356976
+man,she/her,-0.9271996650720624
+man,sister,-0.8558982867198068
+man,son,0.9051473145339495
+man,woman,-0.9795142472343714
+married,single,-0.7071067811865474
+married,spouse,0.9108718351118342
+mayor,translator,1.0
+military personnel,pilot,0.7042726744663604
+military personnel,police officer,0.7039429765866795
+military personnel,security guard,0.7038255255177739
+military personnel,welder,1.0
+model,online community moderator,0.7007648882267352
+mom,mother,0.9348575376517787
+motivational speaker,realtor,1.0
+motivational speaker,retail associate,0.8071648849616486
+motivational speaker,veterinarian technician,1.0
+narcissist,paleo,0.7004041959724749
+neo-conservative,real estate agent,1.0
+neo-conservative,veterinarian technician,1.0
+nft investor,widow,0.7000000000000001
+nft investor,widower,0.7001400420140048
+niece,she/her,0.7074313269355996
+non-voter,voter,-0.7950199314571655
+nurse,therapist,0.7008766440504625
+paleo,police officer,1.0
+park ranger,podcaster,0.8128433340529314
+park ranger,police officer,0.7007648882267352
+park ranger,preppy,1.0
+park ranger,veterinarian technician,0.7006490497453709
+park ranger,widow,0.700528900717694
+partner,single,-0.9511897312113419
+partner,spouse,0.7200644671936505
+partnered,single,-0.7984337679772363
+partnered,spouse,0.7427813527082077
+patriotic,traditional,0.7181818181818181
+peaceful,relaxed,0.8226127456606229
+pest control specialist,pilot,1.0
+pharmacist,social worker,1.0
+pharmacist,translator,0.8090398349558903
+phd,realtor,1.0
+pilot,public relations specialist,0.700404195972475
+podcast host,skater,0.7004041959724748
+podcaster,veterinarian technician,0.704202839630928
+poet,songwriter,0.7324227936704635
+police officer,public relations specialist,0.701810026597537
+police officer,tailor,0.7041294762525789
+police officer,veterinarian technician,0.7005289007176941
+police officer,welder,1.0
+polyamorous,receptionist,0.7000000000000002
+polyamorous,they/them,0.7002746713858893
+polytheist,they/them,1.0
+preppy,project manager,0.753370803500884
+preppy,swing voter,0.7989354619369611
+programmer,software developer,1.0
+progressive,social liberal,0.7530264797137244
+psychiatrist,tour guide,1.0
+public relations specialist,vet,0.700140042014005
+public relations specialist,veterinarian,1.0
+rapper,real estate agent,1.0
+rapper,realtor,1.0
+real estate agent,realtor,1.0
+real estate agent,seamstress,1.0
+realtor,veterinarian,1.0
+restaurant server,waiter,0.7034650053120133
+rich,software developer,1.0
+right-wing,social conservative,0.7867957924694435
+risk-seeking,risk-taking,0.8100249075659296
+she/her,sister,0.828302688169126
+she/her,son,-0.8503817191843794
+she/her,woman,0.9038438130805209
+singer,waiter,0.7001400420140048
+single,spouse,-0.8583950752789523
+software developer,veteran,0.8082903768654761
+son,woman,-0.7828813612588122
+songwriter,veterinarian,0.7006490497453707
+tailor,veterinarian,0.703763467983331
+tailor,welder,0.7037315505489968
+tech geek,technophile,0.717510577323727
+troll,veterinarian technician,1.0
+troll,welder,1.0
+truck driver,veterinarian technician,0.7007648882267353
+vet,veteran,0.7004041959724749
+widow,widowed,1.0

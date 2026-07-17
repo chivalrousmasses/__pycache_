@@ -1,9 +1,0 @@
-{
-    "python-envs.pythonProjects": [
-        {
-            "path": "电商销售分析",
-            "envManager": "ms-python.python:venv",
-            "packageManager": "ms-python.python:pip"
-        }
-    ]
-}
